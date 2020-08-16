@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi, I'm Godis Chijioke, Agu 👋
 
-<!--
-**Chijioke91/Chijioke91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **software engineer** passionate about improving the web. I love Javascript and I currently work with [react][react] and [nodejs][nodejs].
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a React project
+- 🌱 I’m currently learning [gatsby][gatsby] and [graphql][graphql]
+- 👯 I’m looking to collaborate on [react][react] and [tailwind][tailwind] projects
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[graphql]: https://graphql.org/
+[nodejs]: https://nodejs.org/en/
+[react]: http://reactjs.org
+[gatsby]: https://gatsbyjs.org
+[tailwind]: https://tailwindcss.com
+[website]: https://godisgreat-agu.netlify.app/
+[twitter]: https://twitter.com/dev_cjay
+[instagram]: https://instagram.com/godisagu
+[linkedin]: https://www.linkedin.com/in/godis-agu-105619156/
