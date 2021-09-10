@@ -2,7 +2,7 @@
 
 I am a **software engineer** at **Deloitte & Touche** passionate about improving the web. I love Javascript and I currently work with [react][react], [nextjs][nextjs], [graphql][graphql], [nodejs][nodejs] and Typescript
 
-- 🔭 I’m currently working on a React project
+- 🔭 I'm smart and able...Search no further!
 - 👯 I’m looking to collaborate on [react][react], [nextjs][nextjs] and [tailwind][tailwind] projects
 - 😄 Pronouns: He/Him
 
