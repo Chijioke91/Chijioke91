@@ -2,7 +2,7 @@
 
 If you have a team that builds software solutions and does so with fun, I'm all in. I currently work with [react][react], [nextjs][nextjs], [graphql][graphql], [nodejs][nodejs] and Typescript
 
-- 🔭 I'm smart and able...Search no further!
+- 🔭 I want to build as well as learn everyday!
 - 👯 I’m looking to collaborate on [react][react], [nextjs][nextjs] and [tailwind][tailwind] projects
 - 😄 Pronouns: He/Him
 
