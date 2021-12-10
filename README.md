@@ -1,6 +1,6 @@
 ## Hi, I'm Godis Chijioke, Agu 👋
 
-I just want to be a part of a team that builds software solutions and does so with fun. I currently work with [react][react], [nextjs][nextjs], [graphql][graphql], [nodejs][nodejs] and Typescript
+If you have a team that builds software solutions and does so with fun, I'm all in. I currently work with [react][react], [nextjs][nextjs], [graphql][graphql], [nodejs][nodejs] and Typescript
 
 - 🔭 I'm smart and able...Search no further!
 - 👯 I’m looking to collaborate on [react][react], [nextjs][nextjs] and [tailwind][tailwind] projects
@@ -16,7 +16,7 @@ I just want to be a part of a team that builds software solutions and does so wi
 [react]: http://reactjs.org
 [nextjs]: https://nextjs.org/
 [tailwind]: https://tailwindcss.com
-[website]: https://godisgreat-agu.netlify.app/
+[website]: https://godisagu.netlify.app/
 [twitter]: https://twitter.com/dev_cjay
 [instagram]: https://instagram.com/godisagu
 [linkedin]: https://www.linkedin.com/in/godis-agu-105619156/
