@@ -1,9 +1,9 @@
 ## Hi, I'm Godis Chijioke, Agu 👋
 
-If you have a team that builds software solutions and does so with fun, I'm all in. I currently work with [react][react], [nextjs][nextjs], [graphql][graphql], [nodejs][nodejs] and Typescript
+If you have a team that builds software solutions and does so with fun, I'm all in. I currently work with [NodeJS][nodejs] [react][ReactJS], [nextjs][nextjs], [graphql][graphql], and Typescript
 
 - 🔭 I want to build as well as learn everyday!
-- 👯 I’m looking to collaborate on [nodejs][nodejs] [react][react], [nextjs][nextjs] and [tailwind][tailwind] projects
+- 👯 I’m looking to collaborate on JavaScript projects
 - 😄 Pronouns: He/Him
 
 🏡 [website][website] **|** 
