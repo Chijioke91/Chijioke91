@@ -1,6 +1,6 @@
 ## Hi, I'm Godis Chijioke, Agu 👋
 
-If you have a team that builds software solutions and does so with fun, I'm all in. I currently work with [NodeJS][nodejs] [ReactJS][react], [NextJS][nextjs], [graphql][graphql], and TypeScript
+If you have a team that builds software solutions and does so with fun, I'm all in. I currently work with [NodeJS][nodejs], [ReactJS][react], [NextJS][nextjs], [graphql][graphql], and TypeScript
 
 - 🔭 I want to build as well as learn everyday!
 - 👯 I’m looking to collaborate on JavaScript projects
