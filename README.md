@@ -16,7 +16,7 @@ If you have a team that builds software solutions and does so with fun, I'm all 
 [react]: http://reactjs.org
 [nextjs]: https://nextjs.org/
 [tailwind]: https://tailwindcss.com
-[website]: https://godisagu.netlify.app/
+[website]: https://godisagu.co
 [twitter]: https://twitter.com/dev_cjay
 [instagram]: https://instagram.com/godisagu
 [linkedin]: https://www.linkedin.com/in/godis-agu-105619156/
